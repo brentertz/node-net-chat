@@ -11,3 +11,5 @@ node app.js
 Start several different telnet sessions and start chatting.
 
 eg) telnet localhost 1337
+
+![screenshot](screenshot.png)
