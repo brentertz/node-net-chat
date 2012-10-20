@@ -33,4 +33,8 @@ NodeNetChat.prototype.exec_command = function(client, data){
   }
 };
 
+process.on('uncaughtException', function(e){
+  console.log(e);
+})
+
 var app = new NodeNetChat();
