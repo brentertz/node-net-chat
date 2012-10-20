@@ -12,4 +12,4 @@ Start several different telnet sessions and start chatting.
 
 eg) telnet localhost 1337
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.github.com/brentertz/node-net-chat/master/screenshot.png)
